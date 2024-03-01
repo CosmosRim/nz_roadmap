@@ -108,8 +108,50 @@
 
 ### Day5 2/22
 
+### Day14 3/02 Wellington -> Rivendell -> Wairakei
+
+#### 行程
+
+##### 行程1 Wellington(Weta Cave) -> Moonshine Park(Hutt river)Tōtara Park -> Harcourt Park -> Rivendell
+
+距离|时常
+-|-
+41km|1h
+8km|10min
+15km|13min
+
+##### 行程2 Rivendell -> Wairakei
+
+距离|时常
+-|-
+388km|5h
+
+### Day15 3/03 Wairakei -> Matamata -> Hamilton -> Auckland
+
+#### 行程
+
+##### 行程1 Wairakei -> Matamata
+
+距离|时常
+-|-
+110km|1h40min
+
+##### 行程2 Matamata -> Hamilton
+
+距离|时常
+-|-
+60km|1h
+
+##### 行程3 Hamilton -> Auckland
+
+距离|时常
+-|-
+124km|2h
+
+
 ## 检查列表
 
 ### 车辆
+#### Feb/28, AA检查刹车液、刹车片，电池，机油，胎压。目前均正常。
 
 ### 行李
